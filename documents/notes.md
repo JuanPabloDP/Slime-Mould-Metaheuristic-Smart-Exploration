@@ -17,3 +17,6 @@ Entra exploracion:
 - Evaluar el fitness (Gonzalo)
 - Actualizar los tensores (Juan Pablo)
 - Devolver el mejor (Gonzalo)
+
+Otras cosas por hacer:
+- Aplcar forma en que se mantenga dentro de las restricciones 
